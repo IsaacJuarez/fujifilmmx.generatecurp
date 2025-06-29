@@ -5,10 +5,6 @@ VisualStudioVersion = 17.12.35506.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fujifilmmx.generatecurp", "fujifilmmx.generatecurp\fujifilmmx.generatecurp.csproj", "{62F0F1BC-A0B1-4A2E-9970-26FA7A468C53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fujifilmmx.generatecurp.Tests", "fujifilmmx.generatecurp.Tests\fujifilmmx.generatecurp.Tests.csproj", "{581A6563-478D-41D6-8096-6F00975C9A83}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fujifilm.generatecurp.LoadTesting", "fujifilm.generatecurp.LoadTesting\fujifilm.generatecurp.LoadTesting.csproj", "{A647AF5F-FAB6-4482-8024-B5577C5DFFF2}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,14 +15,6 @@ Global
 		{62F0F1BC-A0B1-4A2E-9970-26FA7A468C53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62F0F1BC-A0B1-4A2E-9970-26FA7A468C53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62F0F1BC-A0B1-4A2E-9970-26FA7A468C53}.Release|Any CPU.Build.0 = Release|Any CPU
-		{581A6563-478D-41D6-8096-6F00975C9A83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{581A6563-478D-41D6-8096-6F00975C9A83}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{581A6563-478D-41D6-8096-6F00975C9A83}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{581A6563-478D-41D6-8096-6F00975C9A83}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A647AF5F-FAB6-4482-8024-B5577C5DFFF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A647AF5F-FAB6-4482-8024-B5577C5DFFF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A647AF5F-FAB6-4482-8024-B5577C5DFFF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A647AF5F-FAB6-4482-8024-B5577C5DFFF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
